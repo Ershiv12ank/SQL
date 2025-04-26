@@ -1,5 +1,3 @@
--- Retrieve the Lowest 2 customers based on the score
-
-SELECT TOP 2 *
-FROM customers
-ORDER BY score ASC
+-- DELETE syntax
+--DELETE FROM table_name
+--WHERE <condition>

@@ -1,0 +1,4 @@
+-- Logical Operator
+-- AND -> all Conditin must be true
+--OR-> one of the condition is true
+--NOT -> 
